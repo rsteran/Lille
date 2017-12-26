@@ -1,0 +1,24 @@
+html
+-using notepad++
+-must save as .html file
+-documents always begin with an HTML tag and contain a title & body tag
+-must remember to close tags ie. <></>
+-tags are written lowercase
+http://html.net/tutorials/html/lesson4.php
+maybe? https://www.sololearn.com/Course/HTML/
+
+github
+-on windows: using git bash
+-clone repository
+-placed in folder
+-file moved into repository (only using master branch)
+-use "git add ." (or could use "git add file_name")
+-"git status" checks the changes to be committed
+-git commit
+  -press "i" to enter inline insert mode
+  -press "esc" to exit insert mode
+  -type ":x!" (cursor is at the bottom)
+  -press "enter" to save
+-"git push" pushes the changes committed
+https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository
+https://stackoverflow.com/questions/13239368/git-how-to-close-commit-editor

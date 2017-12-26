@@ -1,0 +1,5 @@
+html
+-title vs. head
+	title: top of browser
+	head: title on page
+-reading <<>> as text?

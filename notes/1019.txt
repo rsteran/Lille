@@ -1,0 +1,7 @@
+html
+-<br> is break
+
+github/git bash
+-need to switch to folder that I cloned the reposity in the terminal to be able to work with it
+-"start notepad++ filename.html" opens up the given file in notepad++
+-"git commit -m "message"" commits the files already staged with the specified message

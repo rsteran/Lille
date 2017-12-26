@@ -1,0 +1,64 @@
+html
+-comment notation: <!-- text -->
+-link notation: <a href="site"> clickable text </a>
+-image: <img src="name.jpg" alt="text">
+-html language: <html lang="en-US">
+	first two letters specify the language (en) second two specify a dialect (US)
+-special characters
+	" quotation mark: &quot;
+	# number sign: &num;
+	$ dollar sign: &dollar;
+	% percent sign: &percnt;
+	& ampersand: &amp;
+	' apostrophe: &apos;
+	( left parenthesis: &lpar;
+	) right parenthesis: &rpar;
+	* asterisk: &ast;
+	+ plus sign: &plus;
+	" comma: &comma;+
+	- hyphen-minus: &minus;
+	. period: &period;
+	/ slash: &sol;
+	: colon: &colon;
+	; semicolon: &semi;
+	< less-than sign: &lt;
+	> greater-than sign: &gt;
+	= equals sign:&equals;
+	? question mark: &quest;
+	@ at sign: &commat;
+	[ left square bracket: &lsqb;
+	¡ inverted exclamation mark: &iexcl;
+	] right square bracket: &rsqb;
+	\ backslash: &bsol;
+	^ circumflex accent: &Hat;
+	_ low line: &lowbar;
+	` grave accent: &grave;
+	{ left curly bracket: &lcub;
+	} right curly bracket: &rcub;
+	| vertical bar: &verbar;
+	$ dollar sign: &dollar;
+	© copyright sign: &copy;
+	® registered sign: &reg;
+	« left angle quotation mark: &laquo;
+	» right angle quotation mark: &raquo;
+	° degree sign: &deg;
+	ç small c cedilla: &ccedil;
+	à small a grave accent: &agrave;
+	á small a acute accent: &aacute;
+	è small e grave accent: &egrave;
+	é small e acute accent: &eacute;
+	ì small i grave accent: &igrave;
+	í small i acute accent: &iacute;
+	î small i circumflex accent: &icirc;
+	ò small o grave accent: &ograve;
+	ó small o acute accent: &oacute;
+	ù small u grave accent: &ugrave;
+	ú small u acute accent: &uacute;
+	œ latin small ligature oe: &oelig;
+https://brajeshwar.github.io/entities/
+
+github
+-must create index.html page to be the site homepage
+-git commit --amend
+-git config --global user.name "foo"
+-git config --global user.email "bar@example.com"
