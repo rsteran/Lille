@@ -24,10 +24,11 @@ html
 	< less-than sign: &lt;
 	> greater-than sign: &gt;
 	= equals sign:&equals;
-	? question mark: &quest;
 	@ at sign: &commat;
-	[ left square bracket: &lsqb;
+	? question mark: &quest;
+	¿ inverted question mark: &iquest;	
 	¡ inverted exclamation mark: &iexcl;
+	[ left square bracket: &lsqb;
 	] right square bracket: &rsqb;
 	\ backslash: &bsol;
 	^ circumflex accent: &Hat;
@@ -42,7 +43,6 @@ html
 	« left angle quotation mark: &laquo;
 	» right angle quotation mark: &raquo;
 	° degree sign: &deg;
-	ç small c cedilla: &ccedil;
 	à small a grave accent: &agrave;
 	á small a acute accent: &aacute;
 	è small e grave accent: &egrave;
@@ -54,7 +54,9 @@ html
 	ó small o acute accent: &oacute;
 	ù small u grave accent: &ugrave;
 	ú small u acute accent: &uacute;
+	ç small c cedilla: &ccedil;
 	œ latin small ligature oe: &oelig;
+	ñ small n tilde: &ntilde;
 https://brajeshwar.github.io/entities/
 
 github
